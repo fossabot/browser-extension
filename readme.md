@@ -3,6 +3,7 @@ Codecov Extension
 > Overlay reports directly into Github and Bitbucket to streamline your workflow.
 
 [![video][10]][11]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fbrowser-extension.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fbrowser-extension?ref=badge_shield)
 
 
 ## Choose your browser below
@@ -27,3 +28,7 @@ Codecov Extension
 
 [10]: https://cloud.githubusercontent.com/assets/2041757/9814630/7c8847d0-585d-11e5-887b-b5a19170ef61.png "Watch how on YouTube"
 [11]: https://www.youtube.com/watch?v=d6wJKODB8_g
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fbrowser-extension.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fbrowser-extension?ref=badge_large)
